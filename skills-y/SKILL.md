@@ -1,6 +1,6 @@
 ---
-name: customtest-Y-P2
-discription: branch Y-P2
+name: customtest-y-p2
+discription: branch-y-p2
 ---
 
 test2
